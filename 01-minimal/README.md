@@ -1,5 +1,5 @@
 # Run server:
-poetry run uvicorn example1:app --reload
+poetry run uvicorn example:app --reload
 
 # Web pages to visit after server startup:
 - http://127.0.0.1:8000/
